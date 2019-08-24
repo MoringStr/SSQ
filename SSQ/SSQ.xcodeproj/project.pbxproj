@@ -24,6 +24,7 @@
 
 /* Begin PBXFileReference section */
 		3D65F95E23118D75003BFF36 /* test.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = test.h; sourceTree = "<group>"; };
+		3D65F95F23119479003BFF36 /* 买过的.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "买过的.h"; sourceTree = "<group>"; };
 		3DEAC9C322CC26A000C00D68 /* SSQ */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SSQ; sourceTree = BUILT_PRODUCTS_DIR; };
 		3DEAC9C622CC26A000C00D68 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		3DEAC9E122CC277C00C00D68 /* 概率问题.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "概率问题.h"; sourceTree = "<group>"; };
@@ -71,6 +72,7 @@
 			children = (
 				3DEAC9E122CC277C00C00D68 /* 概率问题.h */,
 				3D65F95E23118D75003BFF36 /* test.h */,
+				3D65F95F23119479003BFF36 /* 买过的.h */,
 				3DEAC9E222CC278A00C00D68 /* 2003startshuju.h */,
 			);
 			path = SS;
